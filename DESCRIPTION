@@ -1,0 +1,12 @@
+Package: m6APrediction
+Title: Predict m6A Status from Site Features
+Version: 1.0.0
+Authors@R: 
+        person(given = "Yiming", family = "Huang", email = "Yiming.Huang2403@student.xjtlu.edu.cn", role = c("aut", "cre"))
+Description: Applies a fitted random forest classifier to course example data for single-site and batch predictions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: R (>= 3.5.0)
+Imports: randomForest, stats
