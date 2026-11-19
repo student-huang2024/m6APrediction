@@ -8,7 +8,6 @@ The package provides single-site and batch prediction functions, a course-suppli
 
 R >= 3.5.0 is declared in the package metadata. Dependencies may require a newer R version. The package was checked on the teaching server using R 4.5.1.
 
-Run the following after the package source has been uploaded to this repository.
 
 ```r
 install.packages("remotes")
